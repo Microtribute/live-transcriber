@@ -65,3 +65,6 @@ Windows and Windows Live Captions are trademarks of Microsoft Corporation.
 ## License
 
 See [LICENSE](LICENSE) for licensing information.
+
+## Preview
+<img width="902" height="332" alt="image" src="https://github.com/user-attachments/assets/454f16b2-f966-40a1-a209-e499639741c3" />
